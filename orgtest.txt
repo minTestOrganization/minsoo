@@ -1,3 +1,5 @@
 Organization test
 
 First branch test
+
+권민수가 추가한 수정사항입니다.
